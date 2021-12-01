@@ -1,29 +1,10 @@
-# README #
+# Math 351 Final Project (polynomial interpolation grapher), by Simon Ward#
+### Note: ### This is the code repository, but the program should be downloaded for use at:
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This program, created for the final project of Fall Semester Math 351 at University of Oregon, is a polynomial interpolation grapher.
+It allows the user to enter (x,y) coordinate pairs, and creates an interpolation graph based on the coordinates the user has given.
+The interpolation method used is Lagrange interpolation.
 
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+### Other Notes ###
+* Language used: C#
+* Libraries used: OxyPlot, MXParser
